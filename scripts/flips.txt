@@ -1,0 +1,5 @@
+http://lab.smashup.it/flip/
+
+http://progtuts.info/241/javascript-jquery-flip/
+
+http://dev.jonraasch.com/quickflip/examples/
